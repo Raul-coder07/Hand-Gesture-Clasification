@@ -45,10 +45,12 @@ This repository includes the complete code used to train and evaluate **Model 1*
 - The folder **Model 1/** contains all the scripts related to Model 1.
   - The code is provided using **Dataset 2** as an example.
   - Although three different datasets were used in the experiments, the same model architecture and training pipeline were applied to all of them.
+  - Google Colab notebook: https://colab.research.google.com/drive/12wuLvivufi15C34v8eipvtLWMzfWH0GO?usp=sharing
 
 - The folder **Model 2/** follows the same structure and logic.
   - It contains the full implementation of Model 2.
   - The scripts are also configured using **Dataset 2** as a representative example.
+  - Google Colab notebook: https://colab.research.google.com/drive/1UDRKu7bmuqSGeIQFqlmnW-fqCs74nTL7?usp=sharing
 
 Please note that **the datasets are not included in this repository**, as they are private and cannot be publicly shared. However, the code is fully functional and can be adapted to other datasets with the same structure.
 
