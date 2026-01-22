@@ -52,5 +52,9 @@ This repository includes the complete code used to train and evaluate **Model 1*
   - The scripts are also configured using **Dataset 2** as a representative example.
   - Google Colab notebook: https://colab.research.google.com/drive/1UDRKu7bmuqSGeIQFqlmnW-fqCs74nTL7?usp=sharing
 
+- The folder **Inference Time/** includes the code used to compute the inference time for both models.
+  - Inference time was evaluated for **non-quantized (TensorFlow/Keras)** and **quantized (TensorFlow Lite)** versions of the models.
+  - These scripts were used to compare latency and assess the suitability of the models for real-time applications.
+
 Please note that **the datasets are not included in this repository**, as they are private and cannot be publicly shared. However, the code is fully functional and can be adapted to other datasets with the same structure.
 
